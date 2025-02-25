@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>안녕</title>
 </head>
 <body>
-	hello,world!
+	<section>
+		hello,world!
+	</section>
 </body>
 </html>
